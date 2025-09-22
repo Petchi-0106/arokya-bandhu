@@ -176,10 +176,10 @@ const ChatInterface = ({ userData }: ChatInterfaceProps) => {
             </div>
             <div>
               <h3 className="font-semibold">HealthChat Assistant</h3>
-              <p className="text-sm text-muted-foreground">
-                {userData.mode === "personal" ? "Personal Mode" : "Public Mode"} | 
-                {userData.medicineType === "scientific" ? " Scientific Medicine" : " Traditional Medicine"}
-              </p>
+             <p className="text-sm text-muted-foreground">
+  {userData.mode === "personal" ? "Personal Mode" : "Public Mode"} | General Health Guidance
+</p>
+
             </div>
           </div>
           <div className="flex space-x-2">
