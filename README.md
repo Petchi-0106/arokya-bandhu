@@ -1,3 +1,7 @@
+## Contributors
+- Preethi-2296
+- Petchi-0106
+
 # Welcome to your Lovable project
 
 ## Project info
